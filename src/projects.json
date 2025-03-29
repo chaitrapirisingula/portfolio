@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "title": "platypui",
+    "description": "- currently building this \n- AI generated design suggestions and previews for frontend developers",
+    "image": "/platypui.png",
+    "tags": ["react", "machine learning"],
+    "link": "https://github.com/chaitrapirisingula/platypui"
+  },
+  {
+    "id": 2,
+    "title": "brainrotcode",
+    "description": "- co-founder & lead engineer \n- place to create & compare bots for games \n- started as a hackathon project, grew to hundreds of users, $100k+ VC, and multiple sponsored contests",
+    "image": "/brainrotcode.png",
+    "tags": [
+      "startups",
+      "react",
+      "go",
+      "python",
+      "tailwindcss",
+      "machine learning",
+      "UI",
+      "hackathons",
+      "education"
+    ],
+    "link": "https://brainrotcode.com"
+  },
+  {
+    "id": 3,
+    "title": "capital one",
+    "description": "- summer 2024: built a vendor config management tool for airkey \n- summer 2023: built a tool for consumers to view statuses of credit disputes \n- top 10 in intern hackathon: platform to showcase interal projects",
+    "image": "/capitalone.png",
+    "tags": [
+      "internships",
+      "go",
+      "react",
+      "AWS",
+      "angular",
+      "dynamodb",
+      "testing",
+      "UI"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "trek",
+    "description": "- see strava runs as constellations \n- cornhacks 2025 track prize winner",
+    "image": "/trek.png",
+    "tags": [
+      "react",
+      "hackathons",
+      "python",
+      "tailwindcss",
+      "UI",
+      "postgresql"
+    ],
+    "link": "https://trek-star.web.app"
+  },
+  {
+    "id": 5,
+    "title": "tortx",
+    "description": "- developed a claims management dashboard for a legal startup \n- chart.js, material ui",
+    "image": "/tortx.png",
+    "tags": ["internships", "startups", "UI", "react", "azure"]
+  },
+  {
+    "id": 6,
+    "title": "micah house",
+    "description": "- built a donation tracking tool for a homeless shelter \n- awarded design studio rockstar award for my contributions",
+    "image": "/micahhouse.png",
+    "tags": ["internships", "react", "C#", "azure", "postgresql"]
+  },
+  {
+    "id": 7,
+    "title": "color correct",
+    "description": "- simulate different types of color blindness and assess color similarity \n- opencv, kmeans, numpy",
+    "image": "/colorcorrect.png",
+    "tags": ["machine learning", "python"],
+    "link": "https://github.com/chaitrapirisingula/color-analysis-ml/"
+  },
+  {
+    "id": 8,
+    "title": "cs ta",
+    "description": "- head ta for computer science I/II \n- graded assignments, led office hours and labs \n- course focused on java, sql, oop, and basic algorithms",
+    "image": "/csta.png",
+    "tags": ["education", "java", "postgresql", "testing"]
+  },
+  {
+    "id": 9,
+    "title": "wander nebraska",
+    "description": "- built a website that supports non-profits and historical sites in nebraska \n- over 5k users and 200+ sites listed",
+    "image": "/wanderne.png",
+    "tags": ["react", "tailwindcss", "internships", "firebase", "UI"],
+    "link": "https://wandernebraska.com"
+  },
+  {
+    "id": 10,
+    "title": "garmin",
+    "description": "- full-stack developer for fly.garmin website \n- created endpoints and frontend components for editing devices \n- bug fixes and unit tests \n- refactored code for java, spring, and junit updates",
+    "image": "/garmin.png",
+    "tags": ["internships", "java", "angular", "testing"]
+  },
+  {
+    "id": 11,
+    "title": "pollit",
+    "description": "- built a realtime polling website with question creation and storing, live sessions, and session analytics",
+    "image": "/pollit.png",
+    "tags": ["react", "firebase", "education"],
+    "link": "https://pollit-1aa11.web.app"
+  },
+  {
+    "id": 12,
+    "title": "saving face",
+    "description": "- created a platform to store and access emergency medical info through facial recognition \n- hack midwest 2023 collegiate champion",
+    "image": "/savingface.png",
+    "tags": ["hackathons", "machine learning", "python", "react"],
+    "link": "https://github.com/chaitrapirisingula/saving-face"
+  }
+]
