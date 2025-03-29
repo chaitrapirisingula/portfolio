@@ -1,1 +1,1 @@
-# [chaitra.net] (https://chaitra.net/)
+# [chaitra.net](https://chaitra.net/)
