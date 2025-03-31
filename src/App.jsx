@@ -212,7 +212,7 @@ export default function App() {
                       {project.link && (
                         <a
                           href={project.link}
-                          className="flex items-center gap-2 py-2 text-blue-500 rounded hover:text-blue-600 hover:underline transition-colors"
+                          className="flex break-all items-center gap-2 py-2 text-blue-500 rounded hover:text-blue-600 hover:underline transition-colors"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
