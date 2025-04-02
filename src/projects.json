@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "platypui",
-    "description": "- currently building this \n- AI generated design suggestions and previews for frontend developers",
-    "image": "/platypui.png",
-    "tags": ["react", "machine learning"],
-    "link": "https://github.com/chaitrapirisingula/platypui"
+    "title": "yapper",
+    "description": "- currently building this \n- learn languages with an AI powered speed game",
+    "image": "/yapper.png",
+    "tags": ["react", "typescript", "LLM"],
+    "link": "https://github.com/chaitrapirisingula/yapper"
   },
   {
     "id": 2,
@@ -34,6 +34,7 @@
       "internships",
       "go",
       "react",
+      "typescript",
       "AWS",
       "angular",
       "dynamodb",
@@ -73,7 +74,7 @@
   {
     "id": 7,
     "title": "color correct",
-    "description": "- simulate different types of color blindness and assess color similarity \n- opencv, kmeans, numpy",
+    "description": "- simulate different types of color blindness and assess color contrast \n- opencv, kmeans, numpy",
     "image": "/colorcorrect.png",
     "tags": ["machine learning", "python"],
     "link": "https://github.com/chaitrapirisingula/color-analysis-ml/"
@@ -98,7 +99,7 @@
     "title": "garmin",
     "description": "- full-stack developer for fly.garmin website \n- created endpoints and frontend components for editing devices \n- bug fixes and unit tests \n- refactored code for java, spring, and junit updates",
     "image": "/garmin.png",
-    "tags": ["internships", "java", "angular", "testing"]
+    "tags": ["internships", "java", "angular", "postgresql", "testing"]
   },
   {
     "id": 11,
