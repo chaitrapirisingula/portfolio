@@ -4,7 +4,7 @@
     "title": "yapper",
     "description": "- practice languages with an AI powered speed game \n- lots of language learning apps don't have my native language (telugu) so i used the openai api to create this",
     "image": "/yapper.png",
-    "tags": ["react", "typescript", "LLM"],
+    "tags": ["react", "typescript", "LLM", "education"],
     "link": "https://yapper4u.web.app/"
   },
   {
