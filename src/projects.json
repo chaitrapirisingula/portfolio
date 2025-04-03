@@ -2,10 +2,10 @@
   {
     "id": 1,
     "title": "yapper",
-    "description": "- currently building this \n- learn languages with an AI powered speed game",
+    "description": "- practice languages with an AI powered speed game \n- lots of language learning apps don't have my native language (telugu) so i used the openai api to create this",
     "image": "/yapper.png",
     "tags": ["react", "typescript", "LLM"],
-    "link": "https://github.com/chaitrapirisingula/yapper"
+    "link": "https://yapper4u.web.app/"
   },
   {
     "id": 2,
